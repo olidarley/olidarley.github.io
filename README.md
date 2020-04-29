@@ -2,4 +2,4 @@
 Data visualisation and generative art 
 
 
-![narrativeLinesRhizome](/narrativeLinesRhizome.jpg)
+![narrativeLinesRhizome](/narrativeLinesRhizome.jpeg)

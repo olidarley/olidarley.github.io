@@ -16,6 +16,9 @@ Treemap of sand and shingle beaches on the North and South coast of Cornwall, my
 Exploring completeness in force directed network algorithms 
 ![complete20s](/complete20s.png)
 
+**Trying to make something Rothko-esque?**  
+Layering and rotating triangles with the viridis colour map
+![randomColour](/randomColour.png)
 ----------
 
 **Generative Art**  

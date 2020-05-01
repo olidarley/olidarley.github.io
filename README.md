@@ -4,10 +4,12 @@ I'm Oli. I'm an R programmer, designer and musician. I design graphics and tools
 
 ----------
 
-**Tidy Tuesday Week 12** Visualising IMDB ratings for the Office
+**Tidy Tuesday Week 12**  
+Visualising IMDB ratings for the Office
 ![officeDotPlot](/officeDotPlot.png)
 
-**Cornish beaches** Treemap of sand and shingle beaches on the North and South coast of Cornwall, my favourite place in the world.  
+**Cornish beaches**  
+Treemap of sand and shingle beaches on the North and South coast of Cornwall, my favourite place in the world.  
 ![cornwall](/cornwall.png)
 
 ----------

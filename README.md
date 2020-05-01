@@ -12,6 +12,10 @@ Visualising IMDB ratings for the Office
 Treemap of sand and shingle beaches on the North and South coast of Cornwall, my favourite place in the world.  
 ![cornwall](/cornwall.png)
 
+**Complete networks**  
+Exploring completeness in force directed network algorithms 
+![complete20s](/complete20s.png)
+
 ----------
 
 **Generative Art**  

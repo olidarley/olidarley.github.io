@@ -19,6 +19,11 @@ Exploring completeness in force directed network algorithms
 **Trying to make something Rothko-esque?**  
 Layering and rotating triangles with the viridis colour map
 ![randomColour](/randomColour.png)
+
+**Stave**  
+Looks like a graphic score. Extend it, annotate it and then play it?
+![musicCurve](/musicCurve.png)
+
 ----------
 
 **Generative Art**  

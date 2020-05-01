@@ -8,7 +8,7 @@ I'm Oli. I'm an R programmer, designer and musician. I design graphics and tools
 Here are some examples of my visual analysis work using data from the Tidy Tuesday R project.
 
 *Week 12:* IMDB ratings for the Office
-![officeDotPlot](/officeDotPlot.png | width=100)
+![officeDotPlot](/officeDotPlot.png)
 
 ----------
 

@@ -7,8 +7,13 @@ Here are some examples of my visual analysis work from the Tidy Tuesday R data p
 
 Over the last year I've started getting into generative art. As with my data viz work I primarily use R, but have recently started exploring p5.js. 
 
-*Flower*
-![narrativeLinesRhizome](/narrativeLinesRhizome.png)
+*Rhizome*
+![narrativeLinesRhizome](/narrativeLinesRhizome.jpg)
 
+*Dandelion*
+![t27](/t27.jpg)
+
+*Brain*
+![t35](/t35.jpg)
 
 

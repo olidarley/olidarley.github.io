@@ -1,5 +1,5 @@
-**Oli Darley**  
-Data visualisation and generative art 
+Data visualisation analysis | Visual communication | Generative art
 
-Tidy Tuesday week 12 
+Here are some examples of my visual analysis work from the Tidy Tuesday R data project
+*Week 12* 
 ![officeDotPlot](/officeDotPlot.png)

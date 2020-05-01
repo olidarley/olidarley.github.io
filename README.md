@@ -1,5 +1,5 @@
 **Oli Darley**  
 Data visualisation and generative art 
 
-
-![narrativeLinesRhizome](/narrativeLinesRhizome.jpeg)
+Tidy Tuesday week 12 
+![officeDotPlot](/officeDotPlot.png)

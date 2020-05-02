@@ -64,7 +64,11 @@ Ink
 Growth
 ![growth](/growth.png)
 
+3D growth
+![tetrahedralMaterials](/tetrahedralMaterials.png)
 
+Tetrahedral helix
+![tetFinished2](/tetFinished2.png)
 
 ----------
 

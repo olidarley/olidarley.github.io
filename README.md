@@ -1,7 +1,8 @@
 **Data Visualisation** | **Visual Communication** | **Generative Art**
-Drawings, sketches, thoughts and analysis
 
-I'm Oli. I'm an R programmer, designer and musician. I design graphics and tools for understanding, exploration and storytelling. I also make generative art.
+I'm Oli. I'm an R programmer, designer and musician. I design graphics and build tools for understanding, exploration and storytelling. I also make generative art.
+
+This page is a repository for my data sketches, projects, musings and analysis.
 
 ----------
 

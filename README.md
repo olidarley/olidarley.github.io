@@ -58,6 +58,17 @@ Curl
 Melted
 ![melted6](/melted6.png)
 
+**Printing algorithmic growth**  
+
+Rubbers
+![rubbers](/rubbers.png)
+
+Ink
+![ink](/ink.png)
+
+Growth
+![growth](/growth.png)
+
 ----------
 
 

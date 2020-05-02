@@ -16,39 +16,47 @@ Treemap of sand and shingle beaches on the North and South coast of Cornwall, my
 
 **Complete networks and layouts**    
 
-*Complete*  
+Complete  
 ![complete20s](/complete20s.png)
 
-*Non complete*  
+Non complete  
 ![kkNonComplete](/kkNonComplete.png)
 
+
 **Experimenting with layering, opacity and colour**  
+
 Rothko-esque?
 ![randomColour](/randomColour.png)
 
 
 **Manipulating force directed algorithms**  
 
-*Cats cradle*  
+Cats cradle  
 ![t31](/t31.png)
 
-*Chordal*  
+Chordal  
 ![t29](/t29.png)
 
-*Dandelion*
+Dandelion
 ![t35](/t35.jpg)
 
 
 **Bending lines**  
 
-*Stave*  
+Stave  
 ![musicCurve](/musicCurve.png)
 
-*Rhizome*
+Rhizome
 ![narrativeLinesRhizome](/narrativeLinesRhizome.jpg)
 
-*Brain*
+Brain
 ![t27](/t27.jpg)
+
+Curl
+![greencurve](/greencurve.png)
+
+Melted
+![melted6](/melted6.png)
 
 ----------
 

@@ -1,11 +1,7 @@
 **Data Visualisation** | **Visual Communication** | **Generative Art**
 Drawings, sketches, thoughts and analysis
 
-I'm Oli. I'm an R programmer, designer and musician. I design graphics and tools for understanding, exploration and storytelling. 
-
-I've been creating generative art for about a year or so. As with my data viz work I primarily use R, but have recently started exploring p5.js. Some day I'll buy a pen plotter and bring the plots to life!
-
-This page is a mix of both.
+I'm Oli. I'm an R programmer, designer and musician. I design graphics and tools for understanding, exploration and storytelling. I also make generative art.
 
 ----------
 
@@ -17,19 +13,20 @@ Visualising IMDB ratings for the Office
 Treemap of sand and shingle beaches on the North and South coast of Cornwall, my favourite place in the world.  
 ![cornwall](/cornwall.png)
 
-**Complete networks**  
-Exploring completeness in force directed network algorithms 
+**Complete networks and layouts**    
+
+*Complete*  
 ![complete20s](/complete20s.png)
 
+*Non complete*  
+![kkNonComplete](/kkNonComplete.png)
+
 **Trying to make something Rothko-esque?**  
-Layering and rotating triangles with the viridis colour map
+Experimenting with layering, opacity and colour
 ![randomColour](/randomColour.png)
 
-**Stave**  
-Looks like a graphic score. Extend it, annotate it and then play it?
-![musicCurve](/musicCurve.png)
-
-**Cats cradle**  
+**Manipulating force directed algorithms**
+*Cats cradle*  
 ![t31](/t31.png)
 
 **Chordal**  
@@ -37,6 +34,10 @@ Looks like a graphic score. Extend it, annotate it and then play it?
 
 *Dandelion*
 ![t35](/t35.jpg)
+
+**Stave**  
+Looks like a graphic score. Extend it, annotate it and then play it?
+![musicCurve](/musicCurve.png)
 
 *Rhizome*
 ![narrativeLinesRhizome](/narrativeLinesRhizome.jpg)

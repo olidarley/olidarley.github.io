@@ -65,7 +65,7 @@ Ink
 Growth
 ![growth](/growth.png)
 
-3D growth
+3D growth raw data
 ![tetrahedralMaterials](/tetrahedralMaterials.png)
 
 Tetrahedral helix

@@ -10,8 +10,8 @@ This page is a repository for my data sketches, projects, musings and analysis.
 Visualising IMDB ratings for the Office
 ![officeDotPlot](/officeDotPlot.png)
 
-**Cornish beaches**  
-Treemap of sand and shingle beaches on the North and South coast of Cornwall, my favourite place in the world.  
+**Cornish blue flag beaches**  
+Treemap of sand and shingle beaches on the North and South coast of Cornwall, my favourite place in the world. The leaf nodes in this case are the towns (eg Padstow) and the 'weight' which sizes them is the number of beaches in that area.  
 ![cornwall](/cornwall.png)
 
 

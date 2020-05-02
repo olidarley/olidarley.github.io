@@ -27,7 +27,7 @@ Rothko-esque?
 ![randomColour](/randomColour.png)
 
 
-**Manipulating force directed algorithms**  
+**Manipulating force directed algorithms in ggraph**  
 Cats cradle  
 ![t31](/t31.png)
 
@@ -54,7 +54,7 @@ Curl
 Melted
 ![melted6](/melted6.png)
 
-**Printing, data physicalisation and algorithmic growth**  
+**Experiments in algorithmic growth using printing and data physicalisation (masters project)**  
 Rubbers
 ![rubbers](/rubbers.png)
 

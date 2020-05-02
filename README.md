@@ -1,6 +1,11 @@
 **Data Visualisation** | **Visual Communication** | **Generative Art**
+Drawings, sketches, thoughts and analysis
 
 I'm Oli. I'm an R programmer, designer and musician. I design graphics and tools for understanding, exploration and storytelling. 
+
+I've been creating generative art for about a year or so. As with my data viz work I primarily use R, but have recently started exploring p5.js. Some day I'll buy a pen plotter and bring the plots to life!
+
+This page is a mix of both.
 
 ----------
 
@@ -24,10 +29,11 @@ Layering and rotating triangles with the viridis colour map
 Looks like a graphic score. Extend it, annotate it and then play it?
 ![musicCurve](/musicCurve.png)
 
-----------
+**Cats cradle**  
+![t31](/t31.png)
 
-**Generative Art**  
-I've been creating generative art for about a year or so. As with my data viz work I primarily use R, but have recently started exploring p5.js. Some day I'll buy a pen plotter and bring the plots to life!
+**Chordal**  
+![t29](/t29.png)
 
 *Dandelion*
 ![t35](/t35.jpg)

@@ -13,6 +13,7 @@ Visualising IMDB ratings for the Office
 Treemap of sand and shingle beaches on the North and South coast of Cornwall, my favourite place in the world.  
 ![cornwall](/cornwall.png)
 
+
 **Complete networks and layouts**    
 
 *Complete*  
@@ -21,22 +22,26 @@ Treemap of sand and shingle beaches on the North and South coast of Cornwall, my
 *Non complete*  
 ![kkNonComplete](/kkNonComplete.png)
 
-**Trying to make something Rothko-esque?**  
-Experimenting with layering, opacity and colour
+**Experimenting with layering, opacity and colour**  
+Rothko-esque?
 ![randomColour](/randomColour.png)
 
-**Manipulating force directed algorithms**
+
+**Manipulating force directed algorithms**  
+
 *Cats cradle*  
 ![t31](/t31.png)
 
-**Chordal**  
+*Chordal*  
 ![t29](/t29.png)
 
 *Dandelion*
 ![t35](/t35.jpg)
 
-**Stave**  
-Looks like a graphic score. Extend it, annotate it and then play it?
+
+**Bending lines**  
+
+*Stave*  
 ![musicCurve](/musicCurve.png)
 
 *Rhizome*

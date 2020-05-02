@@ -54,7 +54,7 @@ Curl
 Melted
 ![melted6](/melted6.png)
 
-**Experiments in algorithmic growth using printing and data physicalisation (masters project)**  
+**Experiments in visualizing rhizomatic growth using printing and data physicalisation (masters project)**  
 Rubbers
 ![rubbers](/rubbers.png)
 

@@ -15,7 +15,6 @@ Treemap of sand and shingle beaches on the North and South coast of Cornwall, my
 
 
 **Complete networks and layouts**    
-
 Complete  
 ![complete20s](/complete20s.png)
 
@@ -24,13 +23,11 @@ Non complete
 
 
 **Experimenting with layering, opacity and colour**  
-
 Rothko-esque?
 ![randomColour](/randomColour.png)
 
 
 **Manipulating force directed algorithms**  
-
 Cats cradle  
 ![t31](/t31.png)
 
@@ -42,7 +39,6 @@ Dandelion
 
 
 **Bending lines**  
-
 Stave  
 ![musicCurve](/musicCurve.png)
 
@@ -58,8 +54,7 @@ Curl
 Melted
 ![melted6](/melted6.png)
 
-**Printing algorithmic growth**  
-
+**Printing, data physicalisation and algorithmic growth**  
 Rubbers
 ![rubbers](/rubbers.png)
 
@@ -68,6 +63,8 @@ Ink
 
 Growth
 ![growth](/growth.png)
+
+
 
 ----------
 

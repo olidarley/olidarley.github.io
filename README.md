@@ -23,7 +23,7 @@ Non complete
 ![kkNonComplete](/kkNonComplete.png)
 
 
-**Experimenting with layering, opacity and colour to create a blended, 'smudge' effect**  
+**Experimenting with randomization, layering, opacity and colour to create a blended, 'smudge' effect**  
 ![randomColour](/randomColour.png)
 
 

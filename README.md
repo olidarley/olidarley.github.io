@@ -58,7 +58,7 @@ Melted
 Ink
 ![ink](/ink.png)
 
-Sketching 2D Growth
+Print sketching 2D Growth
 ![growth](/growth.png)
 
 3D growth raw data

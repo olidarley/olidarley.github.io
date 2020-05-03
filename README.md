@@ -42,7 +42,7 @@ Dandelion
 Stave  
 ![musicCurve](/musicCurve.png)
 
-Rhizomatic. 'Unflattening' by Nick Sousanis is a big inspiration, and discusses the concept of the rhizome.
+Rhizome
 ![narrativeLinesRhizome](/narrativeLinesRhizome.jpg)
 
 Brain

@@ -2,7 +2,7 @@
 
 I'm Oli. I'm a data visualisation designer, programmer and musician. I also make generative art.
 
-This page is a repository for my data sketches, design prototypes, visual analysis and general musings.
+This page is a repository for my data sketches, prototypes, analysis and general musings.
 
 ----------
 

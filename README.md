@@ -2,20 +2,20 @@
 
 I'm Oli. I'm an R programmer, designer and musician. I design graphics and build tools for understanding, exploration and storytelling. I also make generative art.
 
-This page is a repository for my data sketches, projects, musings and analysis.
+This page is a repository for my data sketches, prototypes, musings and analysis.
 
 ----------
 
-**Tidy Tuesday Week 12**  
+**Tidy Tuesday R data project: Week 12**  
 Visualising IMDB ratings for the Office
 ![officeDotPlot](/officeDotPlot.png)
 
-**Cornish blue flag beaches**  
-Treemap of sand and shingle beaches on the North and South coast of Cornwall, my favourite place in the world. The leaf nodes in this case are the towns (eg Padstow) and the 'weight' which sizes them is the number of beaches in that area.  
+**The north coast of Cornwall is famous for it's big, sandy beaches**  
+A kind of treemap. The leaf nodes in this case are the towns (eg Padstow) and the 'weight' which sizes them is the number of beaches in that area.  
 ![cornwall](/cornwall.png)
 
 
-**Complete networks and layouts**    
+**Visualising complete graphs using a variety of network layout algorithms in ggraph**    
 Complete  
 ![complete20s](/complete20s.png)
 
@@ -23,8 +23,7 @@ Non complete
 ![kkNonComplete](/kkNonComplete.png)
 
 
-**Experimenting with layering, opacity and colour**  
-Rothko-esque?
+**Experimenting with layering, opacity and colour to create a blended, 'smudge' effect**  
 ![randomColour](/randomColour.png)
 
 
@@ -39,7 +38,7 @@ Dandelion
 ![t35](/t35.jpg)
 
 
-**Bending lines**  
+**Bending lines, mostly using sine and cosine functions**  
 Stave  
 ![musicCurve](/musicCurve.png)
 
@@ -55,20 +54,17 @@ Curl
 Melted
 ![melted6](/melted6.png)
 
-**Experiments in visualizing rhizomatic growth using printing and data physicalisation (masters project)**  
-Rubbers
-![rubbers](/rubbers.png)
-
+**Experiments in visualizing growth patterns in 2D and 3D**  
 Ink
 ![ink](/ink.png)
 
-Growth
+Sketching 2D Growth
 ![growth](/growth.png)
 
 3D growth raw data
 ![tetrahedralMaterials](/tetrahedralMaterials.png)
 
-Tetrahedral helix
+Model of 3D growth: tetrahedral helix
 ![tetFinished2](/tetFinished2.png)
 
 ----------

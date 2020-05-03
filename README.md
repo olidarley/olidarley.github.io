@@ -38,7 +38,7 @@ Dandelion
 ![t35](/t35.jpg)
 
 
-**Bending lines, mostly using sine and cosine functions**  
+**Bending lines using sine and cosine functions**  
 Stave  
 ![musicCurve](/musicCurve.png)
 

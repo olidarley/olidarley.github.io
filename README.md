@@ -4,6 +4,8 @@ I'm Oli. I'm a data visualisation designer, programmer and musician. I also make
 
 This page is a repository for my data sketches, prototypes, analysis and general musings.
 
+Most of my work is coded in R or p5.js, though I also occasionally use Tableau, Flourish and Raw.
+
 ----------
 
 **Tidy Tuesday R data project: Week 12**  

@@ -15,7 +15,7 @@ In the world of data visualisation, an illustrative design might be classed as o
 
 Sometimes however, data visualisations of complex subjects cannot avoid being challenging themselves. 'Simplicity' should not be seen a goal when visualising data. Alberto Cairo has frequently written/spoken of the difference between 'simplicity' and 'clarity' as well as differentiating between 'complexity' vs 'complicatedness' 
 
-[](http://digicult.it/news/the-functional-art-of-alberto-cairo-shaping-data-to-generate-opinions/ "Alberto Cairo interview with Georgia Lupi") 
+[Albert Cairo interview with Georgia Lupi](http://digicult.it/news/the-functional-art-of-alberto-cairo-shaping-data-to-generate-opinions/) 
 
 It is helpful, even in the world of business where patience can be short, to see visualising data in terms of clarity of design rather than simplicity.
 

@@ -26,15 +26,11 @@ https://www.ft.com/coronavirus-latest
 
 Depending on the intended message, using a log scale makes sense when visualising exponential disease spread but the question for the designer must always be, in terms of visual communication, what is the trade-off between visual complexity and understanding? 
 
-Often, the simplest designs can be the most powerful. On the other hand, complexity should not necessarily always be avoided in favour of simplicity. Some visualisations are ‘complex’ and all the better for it. As Edward Tufte once said,
+Often, the simplest designs can be the most powerful. On the other hand, complexity should not necessarily always be avoided in favour of simplicity. Many visualisations are ‘complex’ and all the better for it. Over-simplification is misleading. Overlooking detail and ignoring error or uncertainty in favour of the ‘quick and easy’ message can frequently give the wrong impression. 
 
-*'All the interesting worlds (physical, biological, imaginary, human) that we seek to understand are inevitably and happily multivariate in nature.’* 
+The most satisfactory answer to the question: 'How do we look at this?' is usually 'From multiple perspectives'. Rather than relying on a single model and searching for an 'answer', use many models (from a variety of sources) and search for understanding. Visualisation can be thought of similarly as a contextual framework: gain understanding through multiple viewpoints and perspectives.
 
-Over-simplification can be misleading. Overlooking detail and ignoring error or uncertainty in favour of the ‘quick and easy’ message can give the wrong impression. 
-
-The best answer to the question: 'How do we look at this?' is usually 'From multiple perspectives'. Rather than relying on a single model and searching for an 'answer', use many models (from a variety of sources) and search for understanding. Visualisation should be thought of in the same way: gain understanding through multiple viewpoints and perspectives.
-
-Both these visualisations have been at the heart of our understanding of this new reality. 
+Both these visualisations have been at the heart of our understanding of this new reality. In both cases design is king.
 
 
 **Tidy Tuesday R data project: Week 12**  

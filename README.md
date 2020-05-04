@@ -22,7 +22,7 @@ It is helpful, even in the world of business where patience can be short, to see
 The visual decoding of complex, multi-faceted (and often inconsistent and unreliable) data such as COVID-19 data, can require a degree of data literacy, graphical literacy and patience. There are occasions where it is appropriate to encourage and even demand this patience. The pay-offs can be worth it. For example the log scales used in many representations of trends in COVID-19 cases or deaths, especially those by the excellent graphics team at the Financial Times, have become normalised over the last couple of months. 
 
 ![ft](/ft.png)  
-https://www.ft.com/coronavirus-latest
+[ft](https://www.ft.com/coronavirus-latest "Financial Times Coronavirus live tracking")
 
 Depending on the intended message, using a log scale makes sense when visualising exponential disease spread but the question for the designer must always be, in terms of visual communication, what is the trade-off between visual complexity and understanding? 
 

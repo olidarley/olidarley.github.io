@@ -15,7 +15,7 @@ In the world of data visualisation, an illustrative design might be classed as o
 
 Sometimes however, data visualisations of complex subjects cannot avoid being challenging themselves. 'Simplicity' should not be seen a goal when visualising data. Alberto Cairo has frequently written/spoken of the difference between 'simplicity' and 'clarity' as well as differentiating between 'complexity' vs 'complicatedness' (http://digicult.it/news/the-functional-art-of-alberto-cairo-shaping-data-to-generate-opinions/). It is helpful, even in the world of business where patience can be short, to see visualising data in terms of clarity of design rather than simplicity.
 
-The visual communication of complex, multi-faceted (and often inconsistent and unreliable) data such as COVID-19 data, can require a degree of data literacy, graphical literacy and patience. There are occasions where it is appropriate to encourage and even demand this patience. The pay-offs can be worth it. For example the log scales used in many representations of trends in COVID-19 cases or deaths, especially those by the excellent graphics team at the Financial Times, have become normalised over the last couple of months. 
+The visual decoding of complex, multi-faceted (and often inconsistent and unreliable) data such as COVID-19 data, can require a degree of data literacy, graphical literacy and patience. There are occasions where it is appropriate to encourage and even demand this patience. The pay-offs can be worth it. For example the log scales used in many representations of trends in COVID-19 cases or deaths, especially those by the excellent graphics team at the Financial Times, have become normalised over the last couple of months. 
 
 ![ft](/ft.png)  
 https://www.ft.com/coronavirus-latest
@@ -28,10 +28,9 @@ Often, the simplest designs can be the most powerful. On the other hand, complex
 
 Over-simplification can be misleading. Overlooking detail and ignoring error or uncertainty in favour of the ‘quick and easy’ message can give the wrong impression. 
 
-The best answer to the question: 'How do we look at this?' is usually 'From multiple perspectives'. Rather than relying on a single model and searching for an 'answer', use many models (from a variety of sources) and search for understanding. Visualisation should be thought of in the same way way: gain understanding through multiple viewpoints and perspectives. Check out the fantastic data vis research blog 'Multiple Views'.
-https://medium.com/multiple-views-visualization-research-explained
+The best answer to the question: 'How do we look at this?' is usually 'From multiple perspectives'. Rather than relying on a single model and searching for an 'answer', use many models (from a variety of sources) and search for understanding. Visualisation should be thought of in the same way: gain understanding through multiple viewpoints and perspectives.
 
-The key for the designer is to have a firm understanding on their intended message: what they are trying to communicate. Plus a clear picture of their audience: who they are trying to communicate to. Whether purely illustrative or data-driven, design is always king.
+Both these visualisations have been at the heart of our understanding of this new reality. 
 
 
 **Tidy Tuesday R data project: Week 12**  

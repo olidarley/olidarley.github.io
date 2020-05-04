@@ -12,12 +12,10 @@ Some graphics are designed to communicate an idea. They don't have data behind t
 
 ![flattenTheCurve](/flattenTheCurve.png)
 
-The Washington Post scrollable, animated graphic is an interesting case as it is illustrative in design, but uses a simplified model (built on assumptions about the R0, demographics and population behaviour) to simulate disease spread. 
+The Washington Post scrollable, animated graphic is an interesting case as it is illustrative in design, simulating the spread of a fake disease through the population based of four simulations. The simulations simplify real life but as a result are able to communicate very powerfully the potential effect of society's response to the outbreak.
 
 ![washingtonPost](/washingtonPost.png)
 https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
-
-It visualises infection using a circle packing algorithm, reminiscent of the classic measles vaccination visualisation from the Guardian graphics team in 2015 (https://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated). As a visualization paradigm, circle-packing may still be less familiar to the general public than a bar or line chart but it is a unit-based graphic so it easily interpretable, communicating infection through repetition and colour. 
 
 Sometimes, data visualisations of complex subjects cannot avoid being challenging themselves. 'Simplicity' should not be seen a goal when visualising data. Alberto Cairo has frequently written/spoken of the difference between 'simplicity' and 'clarity' as well as differentiating between 'compexity' vs 'complicatedness' (http://digicult.it/news/the-functional-art-of-alberto-cairo-shaping-data-to-generate-opinions/). It is helpful, even in the world of business where patience can be short, to see visualising data in terms of clarity of design rather than simplicity.
 

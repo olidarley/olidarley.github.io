@@ -6,6 +6,27 @@ I'm Oli. I'm a data visualisation designer, programmer and musician. I also make
 
 ----------
 
+**Tidy Tuesday R data project: Week 12**  
+Visualising IMDB ratings for the Office
+![officeDotPlot](/officeDotPlot.png)
+
+**The north coast of Cornwall is famous for it's big, sandy beaches**  
+A kind of treemap. The leaf nodes in this case are the towns (eg Padstow) and the 'weight' which sizes them is the number of beaches in that area.  
+![cornwall](/cornwall.png)
+
+
+**Visualising complete graphs using a variety of network layout algorithms in ggraph**    
+Complete  
+![complete20s](/complete20s.png)
+
+Non complete  
+![kkNonComplete](/kkNonComplete.png)
+
+
+**Experimenting with randomization, layering, opacity and colour to create a blended, 'smudge' effect**  
+![randomColour](/randomColour.png)
+
+
 **Blog entry: 20/04/2020**  
 *Illustrative design and data-driven complexity: Comparing two famous COVID-19 charts.*
 
@@ -32,26 +53,6 @@ The most satisfactory answer to the question: 'How do we look at this?' is usual
 
 Both these visualisations have been at the heart of our understanding of this new reality. In both cases design is king.
 
-
-**Tidy Tuesday R data project: Week 12**  
-Visualising IMDB ratings for the Office
-![officeDotPlot](/officeDotPlot.png)
-
-**The north coast of Cornwall is famous for it's big, sandy beaches**  
-A kind of treemap. The leaf nodes in this case are the towns (eg Padstow) and the 'weight' which sizes them is the number of beaches in that area.  
-![cornwall](/cornwall.png)
-
-
-**Visualising complete graphs using a variety of network layout algorithms in ggraph**    
-Complete  
-![complete20s](/complete20s.png)
-
-Non complete  
-![kkNonComplete](/kkNonComplete.png)
-
-
-**Experimenting with randomization, layering, opacity and colour to create a blended, 'smudge' effect**  
-![randomColour](/randomColour.png)
 
 
 **Manipulating force directed algorithms in ggraph**  

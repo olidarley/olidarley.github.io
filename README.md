@@ -14,13 +14,18 @@ Some graphics are designed to communicate an idea. They don't have data behind t
 
 The Washington Post scrollable, animated graphic is an interesting case as it is illustrative in design, but uses a simplified model (built on assumptions about the R0, demographics and population behaviour) to simulate disease spread. 
 
-https://www.washingtonpost.com/graphics/2020/health/coronavirus-how-epidemics-spread-and-end/
+![washingtonPost](/washingtonPost.png)
+https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
 It visualises infection using a circle packing algorithm, reminiscent of the classic measles vaccination visualisation from the Guardian graphics team in 2015 (https://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated). As a visualization paradigm, circle-packing may still be less familiar to the general public than a bar or line chart but it is a unit-based graphic so it easily interpretable, communicating infection through repetition and colour. 
 
 Sometimes, data visualisations of complex subjects cannot avoid being challenging themselves. 'Simplicity' should not be seen a goal when visualising data. Alberto Cairo has frequently written/spoken of the difference between 'simplicity' and 'clarity' as well as differentiating between 'compexity' vs 'complicatedness' (http://digicult.it/news/the-functional-art-of-alberto-cairo-shaping-data-to-generate-opinions/). It is helpful, even in the world of business where patience can be short, to see visualising data in terms of clarity of design rather than simplicity.
 
-The visual communication of complex, multi-faceted data, can require a degree of data literacy, graphical literacy and patience. There are occasions where it is appropriate to encourage and even demand this patience. The pay-offs can be worth it. For example the log scales used in many representations of trends in COVID-19 cases or deaths (including those by the excellent graphics team at the Financial Times) have become normalised over the last couple of months. Depending on the intended message, using a log scale makes sense when visualising exponential disease spread but the question for the designer must always be, in terms of visual communication, what is the trade-off between visual complexity and understanding? 
+The visual communication of complex, multi-faceted data, can require a degree of data literacy, graphical literacy and patience. There are occasions where it is appropriate to encourage and even demand this patience. The pay-offs can be worth it. For example the log scales used in many representations of trends in COVID-19 cases or deaths, especially those by the excellent graphics team at the Financial Times, have become normalised over the last couple of months. 
+
+![ft](/ft.png)
+
+Depending on the intended message, using a log scale makes sense when visualising exponential disease spread but the question for the designer must always be, in terms of visual communication, what is the trade-off between visual complexity and understanding? 
 
 There's no straightforward answer of course. Often, the simplest designs can be the most powerful. On the other hand, complexity should not necessarily always be avoided in favour of simplicity. Some visualisations are ‘complex’ and all the better for it. Over-simplification can be misleading. Overlooking detail and ignoring error or uncertainty in favour of the ‘quick and easy’ message can give the wrong impression. 
 

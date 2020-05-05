@@ -6,6 +6,8 @@ I'm Oli. I'm a data visualisation designer, programmer and musician. I also make
 
 ----------
 
+[Blog: Illustrative design and data-driven complexity: Comparing two famous COVID-19 charts(https://github.com/olidarley/olidarley.github.io/blob/master/blog.md)
+
 **Tidy Tuesday R data project: Week 12**  
 Visualising IMDB ratings for the Office
 ![officeDotPlot](/officeDotPlot.png)
